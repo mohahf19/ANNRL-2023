@@ -1,0 +1,14 @@
+name: annrl2023
+dependencies:
+  - python>=3.10
+  - numpy
+  - matplotlib
+  - ipython
+  - pylint
+  - black
+  - mypy
+  - notebook
+  - jupyter
+  - scikit-learn
+  - tqdm
+  - pytorch

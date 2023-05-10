@@ -3,3 +3,7 @@
 .mypy_cache
 
 epidemic_env/__pycache__
+
+utils/__pycache__
+
+.idea/
